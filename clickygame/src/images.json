@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "chocolab",
+        "image": "../../assets/images/chocolab.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "chocolate",
+        "image": "../../assets/images/chocolate.jpg"
+    },
+    {
+        "id": 3,
+        "name": "goldie",
+        "image": "../../assets/images/goldie.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "longGoldie",
+        "image": "../../assets/images/longGoldie.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "pouty",
+        "image": "../images/pouty.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "rightlooking",
+        "image": "../images/rightlooking.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "sassy",
+        "image": "../images/sassy.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "seriousgolden",
+        "image": "../images/seriousgolden.jpg"
+    },
+    {
+        "id": 9,
+        "name": "shygoldie",
+        "image": "../images/shygoldie.jpg"
+    },
+    {
+        "id": 10,
+        "name": "tongue",
+        "image": "../images/tongue.png"
+    },
+    {
+        "id": 11,
+        "name": "whitepup",
+        "image": "../images/whitepup.png"
+    },
+    {
+        "id": 12,
+        "name": "yawningPup",
+        "image": "../images/yawningPup.jpeg"
+    }
+]
