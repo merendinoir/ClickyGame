@@ -41,8 +41,8 @@ class App extends Component {
   insertId = (id, index) => {
     this.setState({
       clicked: this.state.clicked.map((elem, i) => {
-      return i === index ? id : elem;
-    })
+        return i === index ? id : elem;
+      })
     });
   }
   // Clear clicked array
@@ -153,7 +153,7 @@ class App extends Component {
           </div>
         </div>
         <BottomNav style={{ background: "#FFFFFF", marginTop: "17.5px", paddingTop: "15px", borderTop: "2.5px solid slategray" }}>
-          
+
         </BottomNav>
 
       </>

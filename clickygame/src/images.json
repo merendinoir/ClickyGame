@@ -2,22 +2,22 @@
     {
         "id": 1,
         "name": "chocolab",
-        "image": "../../assets/images/chocolab.jpeg"
+        "image": "../images/chocolab.jpeg"
     },
     {
         "id": 2,
         "name": "chocolate",
-        "image": "../../assets/images/chocolate.jpg"
+        "image": "../images/chocolate.jpg"
     },
     {
         "id": 3,
         "name": "goldie",
-        "image": "../../assets/images/goldie.jpeg"
+        "image": "../images/goldie.jpeg"
     },
     {
         "id": 4,
         "name": "longGoldie",
-        "image": "../../assets/images/longGoldie.jpeg"
+        "image": "../images/longGoldie.jpeg"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
     {
         "id": 9,
         "name": "shygoldie",
-        "image": "../images/shygoldie.jpg"
+        "image": "../images/shygoldie.jpeg"
     },
     {
         "id": 10,

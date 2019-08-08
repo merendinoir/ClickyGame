@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  margin: 10px;
+}
+
+.card-image {
+  width: 250px;
+  height: auto;
+}
+
+.card-image:hover {
+  cursor: pointer;
+  background-color: #b3ffec;
+}
+
+#main-content {
+  margin-top: 80px;
+}
