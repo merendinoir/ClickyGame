@@ -16,7 +16,7 @@ class App extends Component {
     };
   }
 
-  // Fisher-Yates shuffle on cards, update state
+  // shuffle cards, update state
   shuffle = () => {
     let c = this.state.cards;
     for (let i = c.length - 1; i > 0; i--) {
@@ -27,13 +27,13 @@ class App extends Component {
       cards: [...c]
     })
   }
-  // Check the clicked array for an id
+  // Checking for an id
   findId = id => {
     return this.state.clicked.find(elem => {
       return elem === id && true;
     });
   }
-  // Return the index of where the first null(empty space in clicked array) is found
+  // Return the i of where the first null(empty space in clicked array) is found
   returnFirstNull = () => {
     return this.state.clicked.indexOf(false);
   }
@@ -75,7 +75,7 @@ class App extends Component {
     const id = event.target.id;
     if (this.findId(id) !== undefined) {
       // It has already been clicked!
-      alert("Loserrrr");
+      alert("Loserrrr :'[ ");
       // Reset the counters...
       this.emptyClicked();
       this.resetScoreZero();
@@ -100,7 +100,7 @@ class App extends Component {
       // Check for win
       if (this.returnFirstNull() === 11) {
         // You win! Reset stuff
-        alert("Champion!");
+        alert("Champion!! ᕦ(ò_óˇ) ");
         this.emptyClicked();
         this.resetScoreZero();
       }

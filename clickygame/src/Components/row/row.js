@@ -2,7 +2,6 @@ import React from "react";
 import Card from '@material-ui/core/Card';
 import "./row.css";
 
-
 const Row = card => (
     <Card
         raised={true}
