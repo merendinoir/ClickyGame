@@ -32,7 +32,7 @@
     {
         "id": 7,
         "name": "sassy",
-        "image": "../images/sassy.jpeg"
+        "image": "../images/sassy.jpg"
     },
     {
         "id": 8,
@@ -52,7 +52,7 @@
     {
         "id": 11,
         "name": "whitepup",
-        "image": "../images/whitepup.png"
+        "image": "../images/whitepup.jpeg"
     },
     {
         "id": 12,

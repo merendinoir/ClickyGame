@@ -115,9 +115,6 @@ class App extends Component {
           <nav className="navbar navbar-default myNavColor">
             <div className="container-fluid">
               <div className="navbar-header">
-                {/* <Typography variant="h4"  className="navbar-brand whiteText impactFont">
-                  Spider-Click
-                </Typography> */}
                 <h2 className="whiteText impactFont">Puppy Time</h2>
               </div>
 
